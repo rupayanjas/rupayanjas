@@ -1,4 +1,4 @@
-# Namaste ! 🙏
+### Namaste ! 🙏
 
 I'm a student developer who enjoys building things and constantly improving my skills.
 
@@ -12,12 +12,12 @@ Right now, I'm focused on:
 - improving my problem-solving  
 
 My current tools include C++, along with Python and Django for web development.
+
 I also use MongoDB, and tools like Git, GitHub, VS Code, and Docker.
+
 I'm always exploring and adding more to my stack.
 
----
-
-## Fun stuff
+### Fun stuff
 - Cross-dominant  
-- Always in "dev mode"  
-- Grinding 
+- Into almost every sport  
+- Big hip-hop head 🎧 
