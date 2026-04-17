@@ -17,7 +17,7 @@ I also use MongoDB, and tools like Git, GitHub, VS Code, and Docker.
 
 I'm always exploring and adding more to my stack.
 
-### Fun stuff
-- Cross-dominant  
+### Fun Facts
+- I'm cross-dominant  
 - Into almost every sport  
 - Big hip-hop head 
