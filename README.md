@@ -1,4 +1,4 @@
-### Namaste ! 🙏
+### Namaste !  🙏
 
 I'm a student developer who enjoys building things and constantly improving my skills.
 
@@ -20,4 +20,4 @@ I'm always exploring and adding more to my stack.
 ### Fun stuff
 - Cross-dominant  
 - Into almost every sport  
-- Big hip-hop head 🎧 
+- Big hip-hop head 
